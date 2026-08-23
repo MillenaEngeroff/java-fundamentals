@@ -40,24 +40,6 @@ java-fundamentals/
 ├── 07-exceptions/
 └── README.md
 ```
-
----
-
-### ▶️ How to Run
-
-1. Clone this repository
-   ```bash
-   git clone https://github.com/your-username/java-fundamentals.git
-   ```
-2. Navigate to the exercise folder you want to run
-3. Compile and run using the Java compiler
-   ```bash
-   javac FileName.java
-   java FileName
-   ```
-
----
-
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/millena-engeroff-a62202167/)
